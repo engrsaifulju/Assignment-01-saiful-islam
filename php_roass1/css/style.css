@@ -1,0 +1,100 @@
+*{
+    
+    box-sizing: border-box;
+    
+}
+
+.header_top{
+    border: 1px solid gray;
+    background-color: lightgray;
+    box-sizing: border-box;
+    padding-top:4px;
+}
+.uper_navbar{
+
+}
+.nav_hw{
+    width: 120px;
+}
+.nav_logo{
+    height: 55px;
+    width: 100px;
+}
+
+.mid_1{
+   padding-top: 140px;
+   box-sizing: border-box;
+}
+
+
+.carousel-caption.d-none.d-md-block.carosel_btn_style {
+    
+    padding-bottom:150px;
+    box-sizing: border-box;
+}
+.carosel_top_img{
+    height: 500px;
+}
+.navbar_inside{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.nav_upper_col{
+    float: left;
+    margin-left: 40px;
+}
+
+.nav_upper_col li {
+    float: left;
+}
+.nav_upper_col li a{
+    box-sizing: border-box;
+    border:0px 20px;
+    
+    color: darkred;
+    transition: 1s;
+    
+}
+.nav_upper_col li a:hover{
+   background-color: greenyellow;
+    border: 3px solid red;
+    border-radius: 9px;
+
+    
+}
+.mid_carosel_img{
+    float: left
+    width: 300px;
+    height: 300px;
+    margin-left: 200px;
+}
+
+.offer_up{
+   box-sizing: border-box;
+    
+}
+.offer_right_pic{
+    box-sizing: border-box;
+    float: left;
+/*
+    height: 40px;
+    width: 40px;
+*/
+}
+.offer_right_buttom_pic{
+    
+}
+.hot_cacke{
+    margin-top: 200px;
+}
+.logo_image{
+ float: left;
+    display:inline-block;
+    
+}
+
+.bgr_last{
+ background-color: black;
+    color: white;
+    padding: 20px;
+}
